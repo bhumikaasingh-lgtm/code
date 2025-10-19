@@ -1,0 +1,461 @@
+{"id": "408", "subject": "Assign a task to multiple users", "status": "Closed", "author": "João Saleiro", "is_feature_request": true}
+{"id": "449", "subject": "Keyboard shortcuts", "status": "Reopened", "author": "Motohiro Takayama", "is_feature_request": true}
+{"id": "588", "subject": "Move timelog between projects", "status": "Closed", "author": "Michael Pirogov", "is_feature_request": true}
+{"id": "684", "subject": "Add journal count on issues list", "status": "New", "author": "jinwoo lee", "is_feature_request": true}
+{"id": "877", "subject": "ability to vary the units used to track time", "status": "New", "author": "ilenia zara", "is_feature_request": true}
+{"id": "1140", "subject": "Filtering using more than one instance of each field", "status": "New", "author": "Paolo Sulprizio", "is_feature_request": true}
+{"id": "1278", "subject": "Creating global (default) categories.", "status": "New", "author": "Yanoksy Durañona Yero", "is_feature_request": true}
+{"id": "1680", "subject": "Make version description multiline and textilizable", "status": "New", "author": "Artem Vasiliev", "is_feature_request": true}
+{"id": "1737", "subject": "autowatch issues", "status": "Closed", "author": "colin moock", "is_feature_request": true}
+{"id": "1739", "subject": "Add ability to change issue author", "status": "Reopened", "author": "Burt Culver", "is_feature_request": true}
+{"id": "1757", "subject": "Immediately send a notify email when a user is added to issue's watcher list", "status": "New", "author": "Chaoqun Zou", "is_feature_request": true}
+{"id": "1984", "subject": "Ability to obsolete an uploaded file", "status": "New", "author": "David Kowis", "is_feature_request": true}
+{"id": "2568", "subject": "Description for issue statuses", "status": "Closed", "author": "Thomas Woelfle", "is_feature_request": true}
+{"id": "2585", "subject": "Add Modules to hide/display Overview, Activity, Roadmap", "status": "New", "author": "Ben Blanco", "is_feature_request": true}
+{"id": "3097", "subject": "Add CSV export to Gantt", "status": "New", "author": "Maxim Krušina", "is_feature_request": true}
+{"id": "3319", "subject": "Copy/Duplicate a custom query/saved filter", "status": "New", "author": "James Robertson", "is_feature_request": true}
+{"id": "3568", "subject": "New view-hook in contextual \"(action) menu\" in issues show view", "status": "Closed", "author": "Mischa The Evil", "is_feature_request": true}
+{"id": "4221", "subject": "Force passwords to contain specified character classes", "status": "Closed", "author": "jim joseph", "is_feature_request": true}
+{"id": "4511", "subject": "Allow adding user groups as watchers for issues", "status": "Closed", "author": "Michael Ruder", "is_feature_request": true}
+{"id": "4569", "subject": "Cannot add new version if all versions are closed (from issues page)", "status": "New", "author": "Nick Fitzgerald", "is_feature_request": true}
+{"id": "5005", "subject": "\"New issue\" link near roadmap issue lists.", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "5325", "subject": "Add Parent Task to 'Group Results By' drop down", "status": "New", "author": "Rosalyn Metz", "is_feature_request": true}
+{"id": "5535", "subject": "Assigned to issuelist filter: added <nobody> value", "status": "New", "author": "Radek Antoniuk", "is_feature_request": true}
+{"id": "5913", "subject": "Authors name in from  address of email notifications", "status": "Closed", "author": "Krzysztof Gałązka", "is_feature_request": true}
+{"id": "5973", "subject": "Ability to set project icons", "status": "New", "author": "Anton Statutov", "is_feature_request": true}
+{"id": "6417", "subject": "Allow collapse/expand in gantt chart", "status": "Closed", "author": "N G", "is_feature_request": true}
+{"id": "7224", "subject": "Permission for seeing Members on Project Overview", "status": "New", "author": "Tharuka Pathirana", "is_feature_request": true}
+{"id": "7360", "subject": "Issue custom query: default query per instance, project and user", "status": "Closed", "author": "Mike Kokhanov", "is_feature_request": true}
+{"id": "7774", "subject": "Sub groups or Multi-level groups", "status": "New", "author": "Jos Accapadi", "is_feature_request": true}
+{"id": "7867", "subject": "Add filters for \"Author's group\" and \"Author's role\" to issues list", "status": "Closed", "author": "Alex Belyaev", "is_feature_request": true}
+{"id": "7997", "subject": "Merge Issues", "status": "New", "author": "Brian Lacy", "is_feature_request": true}
+{"id": "8046", "subject": "request to add the ability to watch a given target version", "status": "New", "author": "Gerry Hawkins", "is_feature_request": true}
+{"id": "8095", "subject": "Allow overriding the default text formatting in each project", "status": "New", "author": "Ebrahim Mohammadi", "is_feature_request": true}
+{"id": "8168", "subject": "Allow to disable feature attachment", "status": "New", "author": "Maxim Nikolaevich", "is_feature_request": true}
+{"id": "8488", "subject": "Create an 'Involve' mechanism to private issues", "status": "New", "author": "Bruno Medeiros", "is_feature_request": true}
+{"id": "8629", "subject": "Allow assigning issues and/or watcher status to authenticated non members", "status": "New", "author": "Paul Wilson", "is_feature_request": true}
+{"id": "8734", "subject": "Could not add clickable Link to a local windows directory when creating redmine demand", "status": "Closed", "author": "Ryad Ryad", "is_feature_request": true}
+{"id": "8757", "subject": "Add hook for bulk edit post-save state", "status": "New", "author": "Ramesh Nair", "is_feature_request": true}
+{"id": "9020", "subject": "Auto upgrade of redmine and plugins making it much easier to manage the versions", "status": "New", "author": "Rand C", "is_feature_request": true}
+{"id": "9090", "subject": "Issue view does not show spent time if hours are zero", "status": "New", "author": "Bo Hansen", "is_feature_request": true}
+{"id": "9306", "subject": "Per-tracker issue categories", "status": "New", "author": "Lars Erik Gullerud", "is_feature_request": true}
+{"id": "9309", "subject": "Add description field to custom queries", "status": "Closed", "author": "Anonymous", "is_feature_request": true}
+{"id": "9432", "subject": "Default value for the private issue flag", "status": "New", "author": "Martin G", "is_feature_request": true}
+{"id": "9664", "subject": "CRUD operations for \"custom field definitions\" (not setting custom fields on issues!)", "status": "New", "author": "Alex Last", "is_feature_request": true}
+{"id": "9812", "subject": "set or change author of a issue (via rest api)", "status": "New", "author": "Terence Mill", "is_feature_request": true}
+{"id": "9909", "subject": "Search in project and its subprojects by default", "status": "Closed", "author": "ed boel", "is_feature_request": true}
+{"id": "9912", "subject": "Expose Redmine server settings via REST API", "status": "New", "author": "Alex Last", "is_feature_request": true}
+{"id": "10091", "subject": "Allow administrator to permanently disable modules", "status": "New", "author": "Declan Lynch", "is_feature_request": true}
+{"id": "10614", "subject": "Email Notifications for Custom field with User type", "status": "New", "author": "vi palla", "is_feature_request": true}
+{"id": "11969", "subject": "Subtask display fields", "status": "New", "author": "Jim McAleer", "is_feature_request": true}
+{"id": "12089", "subject": "Hide Issue History", "status": "New", "author": "kais kais", "is_feature_request": true}
+{"id": "12579", "subject": "Ability to assign issues to multiple users", "status": "New", "author": "Bishoy Medhat", "is_feature_request": true}
+{"id": "12704", "subject": "Allow selecting subprojects on new issue form", "status": "Closed", "author": "Adnan Topçu", "is_feature_request": true}
+{"id": "13296", "subject": "Permits defining a default \"due date\"", "status": "New", "author": "Benjamin Jeanjean", "is_feature_request": true}
+{"id": "13315", "subject": "Bulk edit for version list view", "status": "New", "author": "Terence Mill", "is_feature_request": true}
+{"id": "13359", "subject": "Add project identifier to List-Id header in notification emails for better Gmail filtering", "status": "Closed", "author": "Jimmy Engelbrecht", "is_feature_request": true}
+{"id": "13725", "subject": "Archive/close a project via API", "status": "Closed", "author": "Fabrice Brito", "is_feature_request": true}
+{"id": "13798", "subject": "Feature Request: File download history", "status": "New", "author": "Tao Lin", "is_feature_request": true}
+{"id": "13981", "subject": "Abilty to configure subject of email", "status": "New", "author": "Jan Kix", "is_feature_request": true}
+{"id": "14341", "subject": "Ability to self-register only from ceratain domains", "status": "Closed", "author": "Pavel Odintsov", "is_feature_request": true}
+{"id": "14654", "subject": "Allow a bigger range for the gantt timeline", "status": "Closed", "author": "Michael Heinze", "is_feature_request": true}
+{"id": "15835", "subject": "New permission to allow to view all projects", "status": "New", "author": "Christian S.", "is_feature_request": true}
+{"id": "16045", "subject": "Add \"Previous Assignee\" entry when changing issue assignee", "status": "New", "author": "Gurvan Le Dromaguet", "is_feature_request": true}
+{"id": "16069", "subject": "Allow configuration of API limit instead of hardcoding at 100", "status": "New", "author": "Domingo Galdos", "is_feature_request": true}
+{"id": "18027", "subject": "Notification when deleting an issue", "status": "New", "author": "claude g", "is_feature_request": true}
+{"id": "18556", "subject": "Add ability to configure limit of attachments at once", "status": "New", "author": "Stephen Ostrow", "is_feature_request": true}
+{"id": "21450", "subject": "Totals for Total estimated time and Total spent time", "status": "New", "author": "Sebastian Paluch", "is_feature_request": true}
+{"id": "22368", "subject": "Ability to add private comments from the issue bulk edit page", "status": "Closed", "author": "Felix Schäfer", "is_feature_request": true}
+{"id": "22483", "subject": "Show PDF attachments and repo entries instead of downloading them", "status": "Needs feedback", "author": "Gregor Schmidt", "is_feature_request": true}
+{"id": "22701", "subject": "Allow forward reference to parent when importing issues", "status": "Closed", "author": "Gregor Schmidt", "is_feature_request": true}
+{"id": "23079", "subject": "Same Repository to differents projects", "status": "Closed", "author": "mole mole", "is_feature_request": true}
+{"id": "23152", "subject": "Distinguish closed subprojects on the project overview", "status": "Closed", "author": "Diego Gonzalez", "is_feature_request": true}
+{"id": "23215", "subject": "Add the possibility to filter issues after Target Version's Status and Due Date", "status": "Closed", "author": "Marius BĂLTEANU", "is_feature_request": true}
+{"id": "23216", "subject": "Issues List, Enhanced Filtering - Allowing Multiple Queries & \"OR\"-type constraints", "status": "Closed", "author": "James H", "is_feature_request": true}
+{"id": "23327", "subject": "Visually mark closed subprojects on parent project page", "status": "Closed", "author": "Maxim Krušina", "is_feature_request": true}
+{"id": "23403", "subject": "Make default search scope configurable", "status": "Closed", "author": "Jan S", "is_feature_request": true}
+{"id": "23434", "subject": "Add hook to action_menu", "status": "Closed", "author": "Haihan Ji", "is_feature_request": true}
+{"id": "23448", "subject": "Allow updating existing issues via CSV import when their ID's are the same", "status": "New", "author": "Xavier Godon", "is_feature_request": true}
+{"id": "23460", "subject": "Changing the owner of an issue", "status": "Closed", "author": "Jess Nielsen", "is_feature_request": true}
+{"id": "23491", "subject": "Author name in mail from", "status": "Closed", "author": "Roman Belyakovsky", "is_feature_request": true}
+{"id": "23493", "subject": "Add group results by due date", "status": "Closed", "author": "Olivier Jacquet", "is_feature_request": true}
+{"id": "23529", "subject": "Calculate parent Issue's done ratio from subtasks in case of 'Use the issue status'", "status": "Closed", "author": "Haihan Ji", "is_feature_request": true}
+{"id": "23739", "subject": "Add ability to \"Duplicate\" / \"Save as\" custom queries", "status": "Closed", "author": "Maxim Krušina", "is_feature_request": true}
+{"id": "23789", "subject": "Enable External links", "status": "Closed", "author": "Luis Serrano Aranda", "is_feature_request": true}
+{"id": "24286", "subject": "Multiple Asignee ticket", "status": "Closed", "author": "Adam Liszkai", "is_feature_request": true}
+{"id": "24319", "subject": "Last assigned to option in the Assignee selection list", "status": "Closed", "author": "Luka Lüdicke", "is_feature_request": true}
+{"id": "24438", "subject": "Ability to add issue to a version within the roadmap", "status": "Closed", "author": "Christian Skjetne", "is_feature_request": true}
+{"id": "24529", "subject": "change sort order for due date column on \"Issues assigned\" page", "status": "Closed", "author": "Jesús M. Navarro", "is_feature_request": true}
+{"id": "24611", "subject": "Plugin installer on the Administration page", "status": "New", "author": "Brian Rose", "is_feature_request": true}
+{"id": "24629", "subject": "Add option to decide default value for \"I don't want to be notified of changes that I make myself\"", "status": "Closed", "author": "Rene H", "is_feature_request": true}
+{"id": "24764", "subject": "Search in subprojects", "status": "Closed", "author": "Arnaud Pissot", "is_feature_request": true}
+{"id": "24772", "subject": "Set note as private is bulk edit mode", "status": "Closed", "author": "Pierre Maigne", "is_feature_request": true}
+{"id": "24792", "subject": "support bulk update state of version.", "status": "Closed", "author": "Steven Wong", "is_feature_request": true}
+{"id": "24806", "subject": "Possibility to hide Issue History from a role", "status": "Closed", "author": "Arnaud Pissot", "is_feature_request": true}
+{"id": "24883", "subject": "Subscribe to a version / Watch a version", "status": "Closed", "author": "Tobias Fischer", "is_feature_request": true}
+{"id": "24942", "subject": "Additional \"Group by results\" option for parent task", "status": "Closed", "author": "Simon Cruise", "is_feature_request": true}
+{"id": "24943", "subject": "Issue watchers to have groups in addition to users", "status": "Closed", "author": "Simon Cruise", "is_feature_request": true}
+{"id": "24976", "subject": "Include new statuses allowed by workflow in Issues REST API", "status": "Closed", "author": "Stephan Möllgaard", "is_feature_request": true}
+{"id": "25012", "subject": "Allow both '.' and ',' decimal symbols for input of float custom fields", "status": "Closed", "author": "Stephane Evr", "is_feature_request": true}
+{"id": "25288", "subject": "Add links to spent time report table elements", "status": "Closed", "author": "Maxim Krušina", "is_feature_request": true}
+{"id": "25381", "subject": "Allow project selection when editing timelog entries", "status": "Closed", "author": "Nick Vanpraet", "is_feature_request": true}
+{"id": "25454", "subject": "Add bulk edit after save hook", "status": "Closed", "author": "Serghei Zagorinyak", "is_feature_request": true}
+{"id": "25512", "subject": "Favicon for a project (avatar for a project)", "status": "Closed", "author": "Bartłomiej Ekiert", "is_feature_request": true}
+{"id": "25746", "subject": "Spent time - CUSTOM fields - permissions", "status": "Closed", "author": "Jenda Benda", "is_feature_request": true}
+{"id": "25776", "subject": "Automated Plugin installer", "status": "Closed", "author": "Kamil .", "is_feature_request": true}
+{"id": "25779", "subject": "cannot know who delete issue", "status": "Closed", "author": "Randa Bustami", "is_feature_request": true}
+{"id": "25792", "subject": "Add Rest API for activity", "status": "Closed", "author": "Mao H", "is_feature_request": true}
+{"id": "25799", "subject": "Issue Import - Dynamic Parent pasks", "status": "Closed", "author": "Robert Barnebeck", "is_feature_request": true}
+{"id": "25808", "subject": "Allow import issues and time entries on multiple projects (map Project field to a column from CSV)", "status": "New", "author": "Jack Black", "is_feature_request": true}
+{"id": "25810", "subject": "Add #ID into Import Feild for update issue properties", "status": "Closed", "author": "Jack Black", "is_feature_request": true}
+{"id": "26077", "subject": "Add project Icons", "status": "Closed", "author": "Bartłomiej Ekiert", "is_feature_request": true}
+{"id": "26184", "subject": "wiki page in project top page", "status": "Closed", "author": "sachin banugariya", "is_feature_request": true}
+{"id": "26326", "subject": "Adanced relation handling for Issue Import", "status": "Closed", "author": "Robert Barnebeck", "is_feature_request": true}
+{"id": "26327", "subject": "Redmine Should have Defeult Categories for Project trackers. See description.", "status": "Closed", "author": "Stweard Mackenzie", "is_feature_request": true}
+{"id": "26409", "subject": "Show assignee on gantt", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "26494", "subject": "Add ability to enable\\disable multiple columns on project list page", "status": "Closed", "author": "Максим Цуприк", "is_feature_request": true}
+{"id": "26527", "subject": "Show previous comment version when editing an issue comment", "status": "Closed", "author": "Robert Barnebeck", "is_feature_request": true}
+{"id": "26529", "subject": "Email notification when watcher is added and removed", "status": "Closed", "author": "Cacilda de Miranda Lira", "is_feature_request": true}
+{"id": "26534", "subject": "Allow project bulk edit of time entries", "status": "Closed", "author": "Marius BĂLTEANU", "is_feature_request": true}
+{"id": "26639", "subject": "Enabling creating issue within the project regarding the subproject", "status": "Closed", "author": "Yulia Ploshevsky", "is_feature_request": true}
+{"id": "26653", "subject": "REST API - Add full CRUD support for News", "status": "Closed", "author": "Guillaume Masclet", "is_feature_request": true}
+{"id": "26655", "subject": "Additional icon for contextmenu", "status": "Closed", "author": "Felix Gliesche", "is_feature_request": true}
+{"id": "26662", "subject": "Add border around issue history to prevent accidental deletion of an issue", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "26791", "subject": "Send individual notification mails per mail recipient", "status": "Closed", "author": "Holger Just", "is_feature_request": true}
+{"id": "27028", "subject": "Issue's visibility for the watchers", "status": "Closed", "author": "Tigergm Wu", "is_feature_request": true}
+{"id": "27036", "subject": "Ticket status closed", "status": "Closed", "author": "Martina A.", "is_feature_request": true}
+{"id": "27128", "subject": "Ability to choose default sort by column for all projects", "status": "Closed", "author": "Aleksandar Pavic", "is_feature_request": true}
+{"id": "27234", "subject": "I need put the custom fields lavel in multiple language", "status": "Closed", "author": "Jorge Garcia", "is_feature_request": true}
+{"id": "27328", "subject": "edit the time of the user", "status": "Closed", "author": "amit badia", "is_feature_request": true}
+{"id": "27401", "subject": "Switch from View ticket to Edit Ticket - hit the button E on your keyboard", "status": "Closed", "author": "Ralf Roeber", "is_feature_request": true}
+{"id": "27528", "subject": "Custom fields list type improvement", "status": "Closed", "author": "Aleksandar Pavic", "is_feature_request": true}
+{"id": "27680", "subject": "Changing Subject Line in email notification when an issue is created or updated", "status": "Closed", "author": "Shakeel Masood", "is_feature_request": true}
+{"id": "27864", "subject": "Subtasks inherit parent settings during copy", "status": "Closed", "author": "Alessandro Zucchi", "is_feature_request": true}
+{"id": "27875", "subject": "SQL custom query", "status": "Closed", "author": "Tai Le Trinh Huu", "is_feature_request": true}
+{"id": "27879", "subject": "Does redmine support bulk edit time log?", "status": "Closed", "author": "灿伟 姚", "is_feature_request": true}
+{"id": "28081", "subject": "Option to keep last spent-time date on \"create and continue\"", "status": "Closed", "author": "Andrea Cappalunga", "is_feature_request": true}
+{"id": "28085", "subject": "Wiki Toolbar on Full Width Custom Fields", "status": "Closed", "author": "Stephen Stuart", "is_feature_request": true}
+{"id": "28086", "subject": "Add context menu for attributes in issue details", "status": "Closed", "author": "Bernhard Rohloff", "is_feature_request": true}
+{"id": "28170", "subject": "Filter issues by \"Associated revisions\"", "status": "New", "author": "Joel SCHAAL", "is_feature_request": true}
+{"id": "28198", "subject": "Support issue relations when importing issues", "status": "Closed", "author": "Gregor Schmidt", "is_feature_request": true}
+{"id": "28202", "subject": "Allow updating existing issues via CSV import", "status": "Closed", "author": "hoyfkd hoyfkd", "is_feature_request": true}
+{"id": "28223", "subject": "Lack of access for Watchers if visibility=Issues created by or assigned to", "status": "Closed", "author": "RedChris B.", "is_feature_request": true}
+{"id": "28234", "subject": "Add CSV Import for Time Entries", "status": "Closed", "author": "Gregor Schmidt", "is_feature_request": true}
+{"id": "28312", "subject": "Option to automatically add user as watcher to an issue if they edit an issue they're not currently involved with", "status": "Closed", "author": "Colin 't Hart", "is_feature_request": true}
+{"id": "28405", "subject": "Allow assigning issue to any user", "status": "Closed", "author": "Wojtek …", "is_feature_request": true}
+{"id": "28492", "subject": "Option not to block closing a parent issue when it has open subtask(s)", "status": "New", "author": "César DJ Caësar 9114", "is_feature_request": true}
+{"id": "28514", "subject": "issue delete button confusion", "status": "Closed", "author": "Marc Mengel", "is_feature_request": true}
+{"id": "28533", "subject": "Add a description in a custom queries", "status": "Closed", "author": "Diego Gonzalez", "is_feature_request": true}
+{"id": "28924", "subject": "Issues filter: Adding a <<Nobody>> special entry to the user list", "status": "Closed", "author": "Christian Dröge", "is_feature_request": true}
+{"id": "29042", "subject": "Add links to Users, Projects and Versions (at least) in timelog report", "status": "Closed", "author": "Marius BĂLTEANU", "is_feature_request": true}
+{"id": "29074", "subject": "Add \"Edit\" function to entries in \"Spent Time\" block appropriately", "status": "Closed", "author": "J Ellis", "is_feature_request": true}
+{"id": "29131", "subject": "'View all Issues' adds project custom fields  Columns displayed on the issue list", "status": "Closed", "author": "zhangzhi liao", "is_feature_request": true}
+{"id": "29212", "subject": "export gantt chart to  csv file", "status": "Closed", "author": "Randa Bustami", "is_feature_request": true}
+{"id": "29471", "subject": "Allow for calling users by their username", "status": "Closed", "author": "Kamil .", "is_feature_request": true}
+{"id": "29490", "subject": "Ability to restrict time logging on certain tracker types", "status": "New", "author": "Mandar W", "is_feature_request": true}
+{"id": "29519", "subject": "Issues Section/Tab -Allow issues to be grouped by Parent", "status": "Closed", "author": "Bharat Shah", "is_feature_request": true}
+{"id": "29615", "subject": "Add has source revisions/check-ins to issue filters", "status": "Closed", "author": "Peter Berkman", "is_feature_request": true}
+{"id": "29624", "subject": "Possibility of auto updates to the latest stable version?", "status": "Closed", "author": "Anonymous", "is_feature_request": true}
+{"id": "29712", "subject": "Preview and wiki toolbar for full width custom fields", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "29757", "subject": "Make \"First name\" and \"Last name\" optional (not required) in user's settings", "status": "New", "author": "crypto gopher", "is_feature_request": true}
+{"id": "29992", "subject": "Add permissions to read all projects. ", "status": "Closed", "author": "Yar n", "is_feature_request": true}
+{"id": "30336", "subject": "\"Log Time\" feature controlled per Tracker", "status": "Closed", "author": "James H", "is_feature_request": true}
+{"id": "30419", "subject": "Drop support for MySQL 5.5", "status": "Closed", "author": "Marius BĂLTEANU", "is_feature_request": true}
+{"id": "30787", "subject": "Other recipients are not listed in To field even if Setting.bcc_recipients is false", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "30998", "subject": "Add an rake task to prune registered users after a certain number of days", "status": "Closed", "author": "David Demelier", "is_feature_request": true}
+{"id": "31338", "subject": "Add option for append mail header to ticket", "status": "Closed", "author": "Manuel Bernhardt", "is_feature_request": true}
+{"id": "31340", "subject": "Allow restrict auto create accounts for sender domains by list", "status": "Closed", "author": "Manuel Bernhardt", "is_feature_request": true}
+{"id": "31377", "subject": "Updating project status, or archiving with REST", "status": "Closed", "author": "Jonas Ineveld, van", "is_feature_request": true}
+{"id": "31518", "subject": "Default due date for issues", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "31618", "subject": "make version description field rich", "status": "Closed", "author": "Joe D", "is_feature_request": true}
+{"id": "31714", "subject": "Allow to add custom fields of type date to calendar view", "status": "Closed", "author": "Maxim Krušina", "is_feature_request": true}
+{"id": "31984", "subject": "Permission to add timelogs in past", "status": "Closed", "author": "Aleksandar Pavic", "is_feature_request": true}
+{"id": "32090", "subject": "REST API: users: add support for status=*", "status": "Closed", "author": "Martin von Wittich", "is_feature_request": true}
+{"id": "32116", "subject": "Add configured theme to Redmine::Info", "status": "Closed", "author": "Aleksandar Pavic", "is_feature_request": true}
+{"id": "32140", "subject": "Document MySQL database migration to utf8mb8", "status": "Closed", "author": "Sylvain Faivre", "is_feature_request": true}
+{"id": "32291", "subject": "Need some patch to enable emails queue", "status": "Closed", "author": "Ilya Kabirov", "is_feature_request": true}
+{"id": "32406", "subject": "[ISSUE RELATIONS] Add several relations at a time", "status": "Closed", "author": "César DJ Caësar 9114", "is_feature_request": true}
+{"id": "32491", "subject": "Watcher can see tickets independent from issue visibility", "status": "Closed", "author": "Martina A.", "is_feature_request": true}
+{"id": "32493", "subject": "Add capability to make an attachment\\s obsolete and to collapse all obsolete attachments and focus only the necessary ones (like bugzilla)", "status": "Closed", "author": "pasquale [:dedalus]", "is_feature_request": true}
+{"id": "32496", "subject": "bulk edit issue by import CSV", "status": "Closed", "author": "Taine Woo", "is_feature_request": true}
+{"id": "33288", "subject": "Add wiki bar to Time_Log", "status": "Closed", "author": "Ali Hamdan", "is_feature_request": true}
+{"id": "33330", "subject": "Import of issue relations when imported from csv", "status": "Closed", "author": "Aleksandar Pavic", "is_feature_request": true}
+{"id": "33526", "subject": "Add possibility to configure limit used to retrieve objects for an API response", "status": "Closed", "author": "VVD VVD", "is_feature_request": true}
+{"id": "33672", "subject": "Project Responsible Field", "status": "Closed", "author": "Jean B", "is_feature_request": true}
+{"id": "33835", "subject": "Redmine links: Issues: add link for subject", "status": "Closed", "author": "Charles Atkinson", "is_feature_request": true}
+{"id": "33906", "subject": "Upgrade Rails to 5.2.4.5", "status": "Closed", "author": "Mischa The Evil", "is_feature_request": true}
+{"id": "34062", "subject": "Upgrade Rails to 5.2.4.5", "status": "Closed", "author": "Daniel Müller", "is_feature_request": true}
+{"id": "34566", "subject": "Always trim title", "status": "Closed", "author": "Michael Aram", "is_feature_request": true}
+{"id": "34608", "subject": "assigne contact in issues", "status": "Closed", "author": "Nikos Kotronakis", "is_feature_request": true}
+{"id": "34700", "subject": "Allow to use watch_by filter in the global issues list", "status": "Closed", "author": "Holger Just", "is_feature_request": true}
+{"id": "34703", "subject": "\"Copy link\" feature for issue and issue journal", "status": "Closed", "author": "Mizuki ISHIKAWA", "is_feature_request": true}
+{"id": "34714", "subject": "Move delete button for issues and journals to the dropdown menu", "status": "Closed", "author": "Mizuki ISHIKAWA", "is_feature_request": true}
+{"id": "34715", "subject": "Filter issues by file description", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "34718", "subject": "Auto guess file encoding when importing CSV file", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "34766", "subject": "Better error message when no API format is recognised", "status": "Closed", "author": "Felix Schäfer", "is_feature_request": true}
+{"id": "34787", "subject": "Ability to set default value for  \"I don't want to be notified of changes that I make myself\"", "status": "Closed", "author": "Pierre DEPREY", "is_feature_request": true}
+{"id": "34793", "subject": "Filter OR / AND for issues and repeated columns in filter settings", "status": "Closed", "author": "Micael Broun", "is_feature_request": true}
+{"id": "34794", "subject": "Allow newlines and quote characters within mail body delimiters", "status": "Closed", "author": "Holger Just", "is_feature_request": true}
+{"id": "34797", "subject": "Make default_assignee available through API", "status": "Closed", "author": "Sébastien Lardière", "is_feature_request": true}
+{"id": "34821", "subject": "find tickets assigned to former employees", "status": "Closed", "author": "Han Boetes", "is_feature_request": true}
+{"id": "34833", "subject": "Allow redmine to provide reply-to email header", "status": "Closed", "author": "Gary Aitken", "is_feature_request": true}
+{"id": "34845", "subject": "Configuration of display of subtickets", "status": "Closed", "author": "Marco Shima", "is_feature_request": true}
+{"id": "34857", "subject": "Add total estimated hours, spent hours, total spent hours for issues to issue list API", "status": "Closed", "author": "Felix Schäfer", "is_feature_request": true}
+{"id": "34863", "subject": "Change default text formatter for new installations from textile to common_mark", "status": "Closed", "author": "Marius BĂLTEANU", "is_feature_request": true}
+{"id": "34912", "subject": "Save ticket by pressing keyboard key", "status": "Closed", "author": "Marco Shima", "is_feature_request": true}
+{"id": "34924", "subject": "Add Tamil language support", "status": "Closed", "author": "Dhanasingh Krishnapandian", "is_feature_request": true}
+{"id": "34932", "subject": "\"Copy link\" feature for issues list", "status": "Closed", "author": "Mizuki ISHIKAWA", "is_feature_request": true}
+{"id": "34942", "subject": "Support for Git repositories with default branch \"main\"", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "34978", "subject": "Add the list of supported browsers to docs and drop support for IE 11", "status": "Closed", "author": "Marius BĂLTEANU", "is_feature_request": true}
+{"id": "34992", "subject": "Ruby 3.0 support", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "35030", "subject": "Allow parallel testing", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "35063", "subject": "Set values for reminder", "status": "Closed", "author": "Ilya Kabirov", "is_feature_request": true}
+{"id": "35073", "subject": "Escape values in LIKE statements to prevent injection of placeholders (_ or %)", "status": "Closed", "author": "Jens Krämer", "is_feature_request": true}
+{"id": "35086", "subject": "Please consider changing the way how 2FA is set up", "status": "Closed", "author": "robert heiler", "is_feature_request": true}
+{"id": "35216", "subject": "Create/Update custom fields via API", "status": "Closed", "author": "Luny Luny", "is_feature_request": true}
+{"id": "35229", "subject": "SSE refresh", "status": "Closed", "author": "David Doležal", "is_feature_request": true}
+{"id": "35356", "subject": "subtasks field", "status": "Closed", "author": "Angelica Diaz", "is_feature_request": true}
+{"id": "35365", "subject": "Allow sending account information when importing users", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "35432", "subject": "Git: View annotation prior to the change", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "35439", "subject": "Option to require 2FA only for users with administration rights", "status": "Closed", "author": "Marius BĂLTEANU", "is_feature_request": true}
+{"id": "35462", "subject": "Download all attachments in a journal", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "35505", "subject": "Add enabled core fields to /trackers API response", "status": "Closed", "author": "Jens Krämer", "is_feature_request": true}
+{"id": "35544", "subject": "Define Workflow per Project", "status": "Closed", "author": "Gayathri Jayakumar", "is_feature_request": true}
+{"id": "35589", "subject": "issue assignee limitation to a group or a role", "status": "Closed", "author": "Daniel Besnard", "is_feature_request": true}
+{"id": "35626", "subject": "Prevent close project", "status": "New", "author": "token ring", "is_feature_request": true}
+{"id": "35640", "subject": "select / deselect watchers with one click when I copy a single issue", "status": "New", "author": "Eugenia B.", "is_feature_request": true}
+{"id": "35647", "subject": "Allow the user to properly override Setting.display_subprojects_issues on Issue Reports if a project has subprojects", "status": "New", "author": "Mischa The Evil", "is_feature_request": true}
+{"id": "35661", "subject": "Allow \"Contributor\" role to manage related issues for revisions", "status": "Closed", "author": "Marius BĂLTEANU", "is_feature_request": true}
+{"id": "35663", "subject": "Access custom fields in project specific activities via Redmine API", "status": "New", "author": "Simeon Trifonov", "is_feature_request": true}
+{"id": "35679", "subject": "Ignore text email parts only stating that the email should be viewed as HTML", "status": "New", "author": "Felix Schäfer", "is_feature_request": true}
+{"id": "35685", "subject": "Support for MySQL > 5.7 or MariaDB", "status": "Closed", "author": "Martin Jungowski", "is_feature_request": true}
+{"id": "35686", "subject": "Add configured theme and whether it includes JavaScript to Redmine::Info.", "status": "Closed", "author": "Mischa The Evil", "is_feature_request": true}
+{"id": "35742", "subject": "Enable task list items for CommonMark text formatting", "status": "Closed", "author": "Marius BĂLTEANU", "is_feature_request": true}
+{"id": "35747", "subject": "Allow style attribute for HTML elements in CommonMark formatter", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "35750", "subject": "Export \"version\" information with custom fields", "status": "New", "author": "Nicolas ESTIENNE", "is_feature_request": true}
+{"id": "35755", "subject": "Drop OpenID support", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "35758", "subject": "Add some space around the versions on the Roadmap", "status": "Closed", "author": "Mischa The Evil", "is_feature_request": true}
+{"id": "35760", "subject": "Add a fallback-mechanism to Version#due_date similar to Version#start_date", "status": "New", "author": "Mischa The Evil", "is_feature_request": true}
+{"id": "35762", "subject": "Add an optional, explicit Project#start_date and Project#due_date to projects", "status": "New", "author": "Mischa The Evil", "is_feature_request": true}
+{"id": "35764", "subject": "Multiple search terms in the \"contains\" operator of text filters", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "35770", "subject": "Change \"Edit\" label in the context menu to \"Bulk Edit\" when multiple issues are selected", "status": "Closed", "author": "Mizuki ISHIKAWA", "is_feature_request": true}
+{"id": "35771", "subject": "Document 'Repositories Management API' and 'Revisions Add/Delete Related Issues API'", "status": "New", "author": "Mischa The Evil", "is_feature_request": true}
+{"id": "35787", "subject": "add IP address to \"401 Unauthorized\" log messages", "status": "Closed", "author": "Dietrich Streifert", "is_feature_request": true}
+{"id": "35795", "subject": "Settings for global and user default custom ProjectQuery", "status": "Closed", "author": "Mischa The Evil", "is_feature_request": true}
+{"id": "35796", "subject": "Allow subject and priority issue attributes (i.e. tracker fields) to be disablable", "status": "New", "author": "Mischa The Evil", "is_feature_request": true}
+{"id": "35798", "subject": "Add Total estimated/spent time issue query filters", "status": "New", "author": "Mischa The Evil", "is_feature_request": true}
+{"id": "35799", "subject": "Add a link to (with count of) targeted but not-estimated issues to versions show view", "status": "New", "author": "Mischa The Evil", "is_feature_request": true}
+{"id": "35839", "subject": "API: Unable to distinguish between user and group, for the assigned_to field", "status": "New", "author": "Aed Art", "is_feature_request": true}
+{"id": "35843", "subject": "Rest Api: filter by issue category", "status": "Needs feedback", "author": "Aed Art", "is_feature_request": true}
+{"id": "35861", "subject": "Add hook to import issue fields mapping view", "status": "New", "author": "Sumiaki Kawasaki", "is_feature_request": true}
+{"id": "35889", "subject": "Textile and Markdown attachment rendering should support third-party formatters", "status": "New", "author": "Mischa The Evil", "is_feature_request": true}
+{"id": "35890", "subject": "Equalize content order for diff views", "status": "New", "author": "Mischa The Evil", "is_feature_request": true}
+{"id": "35898", "subject": "add user", "status": "Closed", "author": "jagadeesh kumar", "is_feature_request": true}
+{"id": "35920", "subject": "Display caption of \"Group by column\" on the grouped issues list", "status": "New", "author": "Takenori TAKAKI", "is_feature_request": true}
+{"id": "35938", "subject": "custom relationship and tracker filter", "status": "New", "author": "nicola mondinelli", "is_feature_request": true}
+{"id": "35988", "subject": "Spread sheet import plugin", "status": "New", "author": "Anonymous", "is_feature_request": true}
+{"id": "35989", "subject": "Plugin that Includes spent hours in issues REST API responses", "status": "Closed", "author": "Anonymous", "is_feature_request": true}
+{"id": "35990", "subject": "Sitewide news plugin", "status": "New", "author": "Anonymous", "is_feature_request": true}
+{"id": "36002", "subject": "Add search capabilities in a list custom-field to improve the user expirience", "status": "New", "author": "pasquale [:dedalus]", "is_feature_request": true}
+{"id": "36025", "subject": "Drag and drop upload files to issue via issue list screen", "status": "New", "author": "Aleksandar Pavic", "is_feature_request": true}
+{"id": "36032", "subject": "Auto-complete in Project list form", "status": "New", "author": "jontofront jontofront", "is_feature_request": true}
+{"id": "36136", "subject": "redmine_cost_admin plugin", "status": "New", "author": "Anonymous", "is_feature_request": true}
+{"id": "36162", "subject": "Add notification reason to the email instead of the default static email footer", "status": "New", "author": "Marius BĂLTEANU", "is_feature_request": true}
+{"id": "36182", "subject": "Show notifications for all Redmine users", "status": "New", "author": "Mizuki ISHIKAWA", "is_feature_request": true}
+{"id": "36183", "subject": "Dynamic decimal separator, according to country setting", "status": "Closed", "author": "C S", "is_feature_request": true}
+{"id": "36197", "subject": "Add configurable setting for copying attachments when copying an issue", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "36198", "subject": "Set standard columns in the ticket listing options based on projects", "status": "Closed", "author": "C S", "is_feature_request": true}
+{"id": "36204", "subject": "Add links from roadmap and a specific version to files associated with a version", "status": "New", "author": "Marcin Szewczyk", "is_feature_request": true}
+{"id": "36205", "subject": "Ruby 3.1 support", "status": "Closed", "author": "Pavel Rosický", "is_feature_request": true}
+{"id": "36252", "subject": "Make the wiki multi-lingual", "status": "New", "author": "C S", "is_feature_request": true}
+{"id": "36256", "subject": "Redmine Calendar is not listing issues", "status": "New", "author": "Da Pon", "is_feature_request": true}
+{"id": "36292", "subject": "get tags via API", "status": "Closed", "author": "Hervé LE BARS", "is_feature_request": true}
+{"id": "36295", "subject": "Tracker based field ordering.", "status": "New", "author": "Adnan Topçu", "is_feature_request": true}
+{"id": "36303", "subject": "Include avatar URL in Users API", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "36364", "subject": "Add possibility to add custom field of type key/value list to timelog reports", "status": "New", "author": "Christoph Holzer", "is_feature_request": true}
+{"id": "36370", "subject": "Add Copy and Archive to the project context menu", "status": "New", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "36374", "subject": "Add sign in page caps lock indicator", "status": "New", "author": "Jim McAleer", "is_feature_request": true}
+{"id": "36382", "subject": "Redmine Timesheets Application compatible with Redmine 4.2.3", "status": "Closed", "author": "reni wardani", "is_feature_request": true}
+{"id": "36412", "subject": "Possibility to mark \"Note\" field as \"Required\" in \"Workflow->Fields permissions\" tab", "status": "New", "author": "Kamil .", "is_feature_request": true}
+{"id": "36448", "subject": "Option to group subtasks within task in issue list", "status": "New", "author": "Kamil .", "is_feature_request": true}
+{"id": "36450", "subject": "Show/hide private comments", "status": "New", "author": "Lubomír Vrána", "is_feature_request": true}
+{"id": "36521", "subject": "Add language filter to redmine.org page", "status": "New", "author": "C S", "is_feature_request": true}
+{"id": "36537", "subject": "Diferentiate between \"comment\" and \"edit\", Issues.", "status": "New", "author": ". ¦3<RELATIVISM . ", "is_feature_request": true}
+{"id": "36573", "subject": "Extend config.ru to support sub-uri ootb and cleanup all wiki pages", "status": "New", "author": "Tiemo Vorschuetz", "is_feature_request": true}
+{"id": "36594", "subject": "Relax rouge version dependency in Gemfile", "status": "Closed", "author": "Holger Just", "is_feature_request": true}
+{"id": "36659", "subject": "Add \"auth_source_id\" to GET request for Endpoint /users.:format", "status": "Closed", "author": "Christoph Graf", "is_feature_request": true}
+{"id": "36679", "subject": "Export a version as changelog text", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "36695", "subject": "Add check in Redmine information page if default queue adapter is used in production", "status": "Closed", "author": "Marius BĂLTEANU", "is_feature_request": true}
+{"id": "36696", "subject": "Improve performance of adding or removing members of a group", "status": "Closed", "author": "James H", "is_feature_request": true}
+{"id": "36699", "subject": "Change the text of the user link when converting @user notation to html", "status": "Closed", "author": "Mizuki ISHIKAWA", "is_feature_request": true}
+{"id": "36701", "subject": "Update Chart.js to 3.7.1", "status": "Closed", "author": "Maciej Pankanin", "is_feature_request": true}
+{"id": "36702", "subject": "Inline autocomplete for versions", "status": "New", "author": "Marius BĂLTEANU", "is_feature_request": true}
+{"id": "36711", "subject": "Various features for MailHandler", "status": "New", "author": "Vincent Danjean", "is_feature_request": true}
+{"id": "36771", "subject": "RSS Feed of all Projects", "status": "Closed", "author": "Gernot Ploiner", "is_feature_request": true}
+{"id": "36785", "subject": "Extension rest api", "status": "New", "author": "Vladimir Bocharov", "is_feature_request": true}
+{"id": "36823", "subject": "Allow to import time entries for issues in different projects", "status": "Closed", "author": "Jens Krämer", "is_feature_request": true}
+{"id": "36848", "subject": "API  allow display \"watchers\"  when listing several issues", "status": "New", "author": "Yazan Al aeddin", "is_feature_request": true}
+{"id": "36854", "subject": "Include workflow creation in REST API ", "status": "New", "author": "Vladimir Bocharov", "is_feature_request": true}
+{"id": "36908", "subject": "Improve wording on password change form", "status": "Closed", "author": "Vu Nguyen", "is_feature_request": true}
+{"id": "36931", "subject": " Option to search active projects only", "status": "New", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "36938", "subject": "Update translations of field_principal to User or Group", "status": "Closed", "author": "Holger Just", "is_feature_request": true}
+{"id": "37062", "subject": "Possibility to move custom fields before the built-in fields", "status": "New", "author": "Mi Go Ka", "is_feature_request": true}
+{"id": "37099", "subject": "Add regexps to parse more SCM messages", "status": "New", "author": "Beni br", "is_feature_request": true}
+{"id": "37108", "subject": "Support all variation of same character in persian/arabic scripts", "status": "New", "author": "salman mp", "is_feature_request": true}
+{"id": "37123", "subject": "How to access the \"Link values to URL\" using API", "status": "New", "author": "Gvm Gvm", "is_feature_request": true}
+{"id": "37133", "subject": "Add solar date to Redmine", "status": "Closed", "author": "Abbas Samgani", "is_feature_request": true}
+{"id": "37159", "subject": "Drop Ruby 2.5 support", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "37167", "subject": "REST API: Filter issues by multiple tracker ids", "status": "Closed", "author": "Ko Nagase", "is_feature_request": true}
+{"id": "37169", "subject": "Update sanitization rules to allow footnotes markup to match the original structure", "status": "New", "author": "Marius BĂLTEANU", "is_feature_request": true}
+{"id": "37176", "subject": "Mutli language public queries", "status": "New", "author": "Aleksandar Pavic", "is_feature_request": true}
+{"id": "37253", "subject": "I need a \"comment creation date/time\" as a filtering item on my ticket!", "status": "New", "author": "Itaru Tanaka", "is_feature_request": true}
+{"id": "37363", "subject": "Add native support for OIDC", "status": "New", "author": "Daniel Jann", "is_feature_request": true}
+{"id": "37365", "subject": "Allow users to choose textile or markdown formatting", "status": "Closed", "author": "Christian Kay", "is_feature_request": true}
+{"id": "37366", "subject": "Redmine Docker - Easy deploy upgrade, administer", "status": "New", "author": "Johan Wasserfall", "is_feature_request": true}
+{"id": "37461", "subject": "custom field sorting", "status": "New", "author": "Martina A.", "is_feature_request": true}
+{"id": "37467", "subject": "Option to add project when adding users via csv file", "status": "New", "author": "Arthur Acker", "is_feature_request": true}
+{"id": "37530", "subject": "Add timeout for thumbnail generation process", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "37532", "subject": "Add CSS class for relation type to related issues list", "status": "Closed", "author": "salman mp", "is_feature_request": true}
+{"id": "37536", "subject": "Additonal (or user defided) date formats", "status": "New", "author": "Harald Deischinger", "is_feature_request": true}
+{"id": "37537", "subject": "Options to manage Mail replies on closed Tickets", "status": "New", "author": "hsc solutions", "is_feature_request": true}
+{"id": "37561", "subject": "Official PlasticSCM Support", "status": "New", "author": "Michael Sanders", "is_feature_request": true}
+{"id": "37571", "subject": "Custom email sender per project", "status": "New", "author": "Christof Egner", "is_feature_request": true}
+{"id": "37617", "subject": "Add description field to custom fields API", "status": "Closed", "author": "Holger Just", "is_feature_request": true}
+{"id": "37621", "subject": "Add field separator option to CSV export dialog", "status": "Closed", "author": "Karel Pičman", "is_feature_request": true}
+{"id": "37623", "subject": "Add Parent task filter and column to Spent time", "status": "Closed", "author": "Micael Broun", "is_feature_request": true}
+{"id": "37627", "subject": "Add hook on versions form", "status": "New", "author": "Brice Beaumesnil", "is_feature_request": true}
+{"id": "37674", "subject": "Upgrade Admin/Users list to use the query system", "status": "Closed", "author": "Jens Krämer", "is_feature_request": true}
+{"id": "37677", "subject": "Add a way to view all saved queries", "status": "New", "author": "Jon Schell", "is_feature_request": true}
+{"id": "37701", "subject": "Simplify labels of global add button (\"+\" button)", "status": "New", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "37717", "subject": "\"Show completed versions\" by default", "status": "Closed", "author": "thuruk thuruk", "is_feature_request": true}
+{"id": "37725", "subject": "Change Issue Priority Due to Mail Subject", "status": "New", "author": "Optimal OP Grupo Innova", "is_feature_request": true}
+{"id": "37731", "subject": "Add example of 'My page' block name translation to bundled example plugin", "status": "New", "author": "Mischa The Evil", "is_feature_request": true}
+{"id": "37807", "subject": "Allow access to /robots.txt even if logins are required", "status": "Closed", "author": "Holger Just", "is_feature_request": true}
+{"id": "37822", "subject": "Reduce delay in displaying tooltips with icon-only links", "status": "New", "author": "Mizuki ISHIKAWA", "is_feature_request": true}
+{"id": "37856", "subject": "Few Details required", "status": "Closed", "author": "Ethan Hunt", "is_feature_request": true}
+{"id": "37878", "subject": "Allow using ideographic space (U+3000) as a separator for search terms", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "37941", "subject": "Add non-members as watchers", "status": "New", "author": "Jon Schell", "is_feature_request": true}
+{"id": "37973", "subject": "Enable to display watches count on issues list", "status": "New", "author": "Takenori TAKAKI", "is_feature_request": true}
+{"id": "37996", "subject": "Add repository sidebar hooks and configuration buttons for repositories", "status": "New", "author": "Alexander Meindl", "is_feature_request": true}
+{"id": "38065", "subject": "permissions in custom fields for time entries", "status": "New", "author": "Irmgard Schwenteck", "is_feature_request": true}
+{"id": "38099", "subject": "Add Ruby 3.2 support", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "38134", "subject": "Drop Ruby 2.6 support", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "38168", "subject": "WebP images support", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "38216", "subject": "Add template filenames as comments to HTML output in development mode", "status": "Closed", "author": "Takashi Kato", "is_feature_request": true}
+{"id": "38226", "subject": "Implement cron endpoint or script to allow calling scheduled tasks", "status": "New", "author": "Echedey López Romero", "is_feature_request": true}
+{"id": "38238", "subject": "Auto watch issues on issue creation", "status": "Closed", "author": "Felix Schäfer", "is_feature_request": true}
+{"id": "38273", "subject": "Improve errors in MailHandler: add MissingContainer and LockedTopic exception", "status": "Closed", "author": "Felix Schäfer", "is_feature_request": true}
+{"id": "38274", "subject": "Receive e-mail replies to news and news comments", "status": "Closed", "author": "Felix Schäfer", "is_feature_request": true}
+{"id": "38298", "subject": "Refresh before edit", "status": "New", "author": "David Mackenzie", "is_feature_request": true}
+{"id": "38301", "subject": "Multiple issue ids in \"Related to\" filter", "status": "Closed", "author": "Ko Nagase", "is_feature_request": true}
+{"id": "38312", "subject": "Add column project_id to Spent time report", "status": "New", "author": "Vasily Pupkin", "is_feature_request": true}
+{"id": "38338", "subject": "JSON formatting", "status": "Closed", "author": "Ivan Cenov", "is_feature_request": true}
+{"id": "38343", "subject": "Change the default notification option to \"Only for things I watch or I am assigned to\"", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "38353", "subject": "Custom templates for email notifications", "status": "New", "author": "Jouri Mamaev", "is_feature_request": true}
+{"id": "38355", "subject": "カスタムフィールドにbyte数制限追加  Request for limitation of byte number to custom field", "status": "Closed", "author": "Ayako Matsuzawa", "is_feature_request": true}
+{"id": "38357", "subject": " Request for limitation of byte number to custom field", "status": "New", "author": "Ayako Matsuzawa", "is_feature_request": true}
+{"id": "38367", "subject": "Session expiry limits per user/group", "status": "New", "author": "A Fora", "is_feature_request": true}
+{"id": "38368", "subject": "WebP images support in PDF output", "status": "Closed", "author": "Jun NAITOH", "is_feature_request": true}
+{"id": "38396", "subject": "Support for multiple default data", "status": "New", "author": "kusumoto koyumi", "is_feature_request": true}
+{"id": "38402", "subject": "\"Any searchable text\" filter for issues", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "38416", "subject": "Ability to disable the priority field", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "38423", "subject": "Regular expression support for string/text type filters", "status": "New", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "38431", "subject": "Add Counter to news", "status": "Needs feedback", "author": "C S", "is_feature_request": true}
+{"id": "38435", "subject": "\"contains any of\" operator for text filters to perform OR search of multiple terms", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "38446", "subject": "Support multiple multi-word phrases in the search engine", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "38456", "subject": "OR search with multiple terms for \"starts with\" and \"ends with\" filter operators", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "38459", "subject": "Support \"My bookmarks\" in the search", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "38492", "subject": "Provide some ways to find the issues where an user Is mentioned ", "status": "New", "author": "pasquale [:dedalus]", "is_feature_request": true}
+{"id": "38494", "subject": "Add user with same roles | add by duplicate user roles", "status": "New", "author": "Fabrizio Sebastiani", "is_feature_request": true}
+{"id": "38498", "subject": "Not able to add new project in project tab", "status": "Closed", "author": "Mitul Jagushte", "is_feature_request": true}
+{"id": "38501", "subject": "recent_pages macro that displays a list of recently updated Wiki pages", "status": "New", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "38504", "subject": "Display pasted images in appropriate size on HiDPI displays", "status": "New", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "38526", "subject": "Subversion support for \"View annotation prior to this change\"", "status": "New", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "38527", "subject": "New issues filter operators \"has been\", \"has never been\", and \"changed from\"", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "38541", "subject": "Automatic deletion of unactivated accounts", "status": "Closed", "author": "Hendrik Jaeger", "is_feature_request": true}
+{"id": "38542", "subject": "Better username completion in the editor", "status": "Closed", "author": "Hendrik Jaeger", "is_feature_request": true}
+{"id": "38550", "subject": "Ability to group issues by project fields and custom fields", "status": "New", "author": "salman mp", "is_feature_request": true}
+{"id": "38567", "subject": "Enable to display notes count on issues list", "status": "New", "author": "Takenori TAKAKI", "is_feature_request": true}
+{"id": "38568", "subject": "Enable to display File count and Total file size on issues list", "status": "New", "author": "Takenori TAKAKI", "is_feature_request": true}
+{"id": "38585", "subject": "Drop Ruby 2.7 and 3.0 support", "status": "Closed", "author": "C S", "is_feature_request": true}
+{"id": "38637", "subject": "Want to start issue number (1) for new project, after deleting old project", "status": "Closed", "author": "Kaung  KK", "is_feature_request": true}
+{"id": "38647", "subject": "Archive feature for wiki pages ", "status": "New", "author": "Fernando Hartmann", "is_feature_request": true}
+{"id": "38650", "subject": "The design of the tracker selection UI on the custom field editing screen and the project settings screen should be aligned to create a sense of coherence and unity.", "status": "New", "author": "madoka KAMIYA", "is_feature_request": true}
+{"id": "38651", "subject": "I would like to improve the user experience (UX) of the project selection in the custom field editing screen.", "status": "New", "author": "madoka KAMIYA", "is_feature_request": true}
+{"id": "38710", "subject": "Redmine upgrade path", "status": "Closed", "author": "Alex Cheung", "is_feature_request": true}
+{"id": "38805", "subject": "Add support for GitHub", "status": "Needs feedback", "author": "Tiago Franco", "is_feature_request": true}
+{"id": "38840", "subject": "A developer or project manager can relate an issue to another while editing the issue.", "status": "New", "author": "benjamin melançon", "is_feature_request": true}
+{"id": "38853", "subject": "do not disclose login account names (public projects disclose some user info)", "status": "New", "author": "Thomas Meyer", "is_feature_request": true}
+{"id": "38879", "subject": "Top Menu -- Additional links as a core feature or self-contained addon", "status": "New", "author": "Steven Uggowitzer", "is_feature_request": true}
+{"id": "38943", "subject": "Add \"Assign to creator\" option in the dropdown to issue edit form.", "status": "New", "author": "Piko Tao", "is_feature_request": true}
+{"id": "38948", "subject": "Add user status to users list API", "status": "Closed", "author": "Tom Misilo", "is_feature_request": true}
+{"id": "38951", "subject": "Enable journaling on projects", "status": "New", "author": "salman mp", "is_feature_request": true}
+{"id": "38985", "subject": "Adding a wiki page to My Page", "status": "New", "author": "thuruk thuruk", "is_feature_request": true}
+{"id": "39003", "subject": "Add css class to external links in markdown", "status": "Closed", "author": "Ulf Seltmann", "is_feature_request": true}
+{"id": "39013", "subject": "WebConnect data exchange access ", "status": "Closed", "author": "Shelby Smith", "is_feature_request": true}
+{"id": "39015", "subject": "Custom field with the ability to enter only unique data.", "status": "New", "author": "Evgeniy Lev", "is_feature_request": true}
+{"id": "39030", "subject": "API - creation/update wiki page - need to specify parent page", "status": "New", "author": "Carcharodon C", "is_feature_request": true}
+{"id": "39047", "subject": "Add description field for issue queries", "status": "Closed", "author": "Liane Hampe", "is_feature_request": true}
+{"id": "39069", "subject": "New permission to edit log time during a configurable number of days. ", "status": "New", "author": "benoit de vos", "is_feature_request": true}
+{"id": "39111", "subject": "Enable Asset Pipeline Integration using Propshaft", "status": "Closed", "author": "Takashi Kato", "is_feature_request": true}
+{"id": "39113", "subject": "Add missing Homepage attribute in Projects API response", "status": "Closed", "author": "Vincent Robert", "is_feature_request": true}
+{"id": "39130", "subject": "Common Formatting - Check tasklist item without editing function", "status": "New", "author": "C S", "is_feature_request": true}
+{"id": "39135", "subject": "Kurdish - ckb (central Kurdish)", "status": "New", "author": "Peter Ko", "is_feature_request": true}
+{"id": "39138", "subject": "Automatically recording activity into issue hours", "status": "New", "author": "Yeats Luo", "is_feature_request": true}
+{"id": "39141", "subject": "Upgrade redmine 3.3.0 (windows) to latest", "status": "Closed", "author": "Gilbert W", "is_feature_request": true}
+{"id": "39160", "subject": "Add \"Statuses\" filter when creating new \"Issue\" custom fields", "status": "Needs feedback", "author": "Zee Prime", "is_feature_request": true}
+{"id": "39212", "subject": "Support tab separated text in importers", "status": "New", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "39219", "subject": "Pop up warning when logged hours extend the expectation", "status": "New", "author": "Tomasz Kinal", "is_feature_request": true}
+{"id": "39528", "subject": "Change mention link color for users without access to view issues", "status": "New", "author": "Mizuki ISHIKAWA", "is_feature_request": true}
+{"id": "39529", "subject": "Add tooltips for clarifying non-notifiable user mentions", "status": "New", "author": "Mizuki ISHIKAWA", "is_feature_request": true}
+{"id": "39530", "subject": "Feature to Group Custom Fields by Category", "status": "New", "author": "philippe lhardy", "is_feature_request": true}
+{"id": "39579", "subject": "Drop official support for MySQL 5.5, 5.6 and 5.7", "status": "Closed", "author": "Marius BĂLTEANU", "is_feature_request": true}
+{"id": "39591", "subject": "Change URL in automatic e-mail", "status": "Closed", "author": "Julian Jakobi", "is_feature_request": true}
+{"id": "39712", "subject": "Add comment on custom fields", "status": "New", "author": "Jérôme Gallot", "is_feature_request": true}
+{"id": "39713", "subject": "Add technical identifier on some objects", "status": "New", "author": "Jérôme Gallot", "is_feature_request": true}
+{"id": "39723", "subject": "Add 'Assigned to You' Tag in Email Subjects for Personal Assignments", "status": "New", "author": "Takenori TAKAKI", "is_feature_request": true}
+{"id": "39733", "subject": "Make it possible to change the logo with a custom image (support svg, png etc) via UI", "status": "New", "author": "pasquale [:dedalus]", "is_feature_request": true}
+{"id": "39761", "subject": "Ruby 3.3 support", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "39763", "subject": "Option to disable Issue Navigation or URL Parameters", "status": "Closed", "author": "Jorge Vaz", "is_feature_request": true}
+{"id": "39774", "subject": "Add logging for issue deletion", "status": "New", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "39783", "subject": "Email notification settings", "status": "New", "author": "Donald Martin", "is_feature_request": true}
+{"id": "39805", "subject": "Extend \"contains\" operator in \"Parent task\" filter to support multiple issue IDs", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "39806", "subject": "Improve filter rendering on narrow screens by replacing the layout tables with a flex layout", "status": "Closed", "author": "Jens Krämer", "is_feature_request": true}
+{"id": "39863", "subject": "Enable \"+\" in the project menu tab from www.redmine.org", "status": "Closed", "author": "Marius BĂLTEANU", "is_feature_request": true}
+{"id": "39880", "subject": "Add a small border-radius to selected (author) headings", "status": "New", "author": "Mischa The Evil", "is_feature_request": true}
+{"id": "39881", "subject": "Improve progress bars", "status": "New", "author": "Mischa The Evil", "is_feature_request": true}
+{"id": "39884", "subject": "Allow multiple footnotes per single word", "status": "Closed", "author": "Mischa The Evil", "is_feature_request": true}
+{"id": "39948", "subject": "Add Redmine::Plugin proxy method for Redmine::Acts::Attachable::ObjectTypeConstraint.register_object_type", "status": "Closed", "author": "Mischa The Evil", "is_feature_request": true}
+{"id": "39997", "subject": "Add an option to render values of Integer- and Float-format custom fields with thousands delimiters", "status": "Closed", "author": "Mischa The Evil", "is_feature_request": true}
+{"id": "40054", "subject": "Add Issue query option to include parent issue into search results", "status": "New", "author": "Sebastian Paluch", "is_feature_request": true}
+{"id": "40092", "subject": "Drop FastCGI support", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "40099", "subject": "User api filtering by status=* broke on upgrade from 5.0 to 5.1", "status": "Closed", "author": "Joan J", "is_feature_request": true}
+{"id": "40103", "subject": "Allow to \"watch\" projects to get notifications", "status": "New", "author": "Jens Krämer", "is_feature_request": true}
+{"id": "40159", "subject": "Back date entries resttriction  ", "status": "New", "author": "Amit Saxena", "is_feature_request": true}
+{"id": "40190", "subject": "Stop appending the utf8 checkmark parameter to form URLs", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "40248", "subject": "Can I enable inherit member from rails console?", "status": "Closed", "author": "Cheng-Hui PENG", "is_feature_request": true}
+{"id": "40266", "subject": "Proposal to Include Direct Links to Attached Files in PDF Exports of Issues", "status": "New", "author": "Yazan Al aeddin", "is_feature_request": true}
+{"id": "40277", "subject": "Set day as non-working for purposes of Precedes and Following relationships", "status": "New", "author": "Dotan Cohen", "is_feature_request": true}
+{"id": "40422", "subject": "Print name and email to request that was create through email", "status": "New", "author": "Filip Skřivánek", "is_feature_request": true}
+{"id": "40449", "subject": "Add updated_on and updated_by fields to Issues API journal response", "status": "Closed", "author": "Thomas Hoffmann", "is_feature_request": true}
+{"id": "40450", "subject": "Add API-Request for fetching Journals which has changed since a certain date/time", "status": "New", "author": "Thomas Hoffmann", "is_feature_request": true}
+{"id": "40556", "subject": "Focus on the textarea after clicking the Edit Journal button", "status": "Closed", "author": "Yasu Saku", "is_feature_request": true}
+{"id": "40569", "subject": "Add an option to send email notification when an attachment is added", "status": "Closed", "author": "Mizuki ISHIKAWA", "is_feature_request": true}
+{"id": "40586", "subject": "Calendar view/page to add custom events", "status": "Closed", "author": "Tanaya Patil", "is_feature_request": true}
+{"id": "40588", "subject": "Ability to disable table sort", "status": "Needs feedback", "author": "Josiah Ulfers", "is_feature_request": true}
+{"id": "40666", "subject": "Issue Reminder Plugin problem", "status": "Closed", "author": "Mursal Gurbanli", "is_feature_request": true}
+{"id": "40744", "subject": "Refresh history tabs look and feel", "status": "New", "author": "Marius BĂLTEANU", "is_feature_request": true}
+{"id": "40784", "subject": "Add feature to get raw Textile/Markdown text in notes and descriptions", "status": "New", "author": "Mizuki ISHIKAWA", "is_feature_request": true}
+{"id": "40853", "subject": "Upgrade jQuery to 3.7.1", "status": "Closed", "author": "Holger Just", "is_feature_request": true}
+{"id": "40864", "subject": "Upgrade jQuery UI to 1.13.3", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "40890", "subject": "Show project changes on 'Activity' page", "status": "New", "author": "Boris Brodski", "is_feature_request": true}
+{"id": "40901", "subject": "Disable custom query links while loading to prevent multiple requests", "status": "Closed", "author": "Mizuki ISHIKAWA", "is_feature_request": true}
+{"id": "40913", "subject": "Add bulk lock/unlock feature to user list context menu", "status": "Closed", "author": "Mizuki ISHIKAWA", "is_feature_request": true}
+{"id": "40970", "subject": "Emoji reactions on notes in Issues", "status": "New", "author": "Aidan Horn", "is_feature_request": true}
+{"id": "41031", "subject": "Include project identifier in List-Id header field of notification emails", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "41044", "subject": "Add hook call in my page", "status": "New", "author": "Akihiro Sada", "is_feature_request": true}
+{"id": "41053", "subject": "Add \"User's group\" and \"User's role\" filters to Spent time list", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "41143", "subject": "Project Menu Module Access Configuration", "status": "Closed", "author": "Andres Eduardo Garcia Marquez", "is_feature_request": true}
+{"id": "41180", "subject": "Tracker 'closed' -> Status 'closed' automatically", "status": "New", "author": "Michael Koch", "is_feature_request": true}
+{"id": "41202", "subject": "Change the default CSV export encoding to UTF-8", "status": "Closed", "author": "Go MAEDA", "is_feature_request": true}
+{"id": "41203", "subject": "RGPD Compliance", "status": "Closed", "author": "YoZ Art", "is_feature_request": true}
