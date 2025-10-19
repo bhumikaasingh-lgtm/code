@@ -2,8 +2,10 @@ import csv
 from pathlib import Path
 from typing import Dict, List
 
+from .text import chunk_text_by_sentences
 
-def load_csv_documents(csv_path: str) -> List[Dict]:
+
+def load_csv_documents(csv_path: str, sentences_per_chunk: int | None = None, overlap: int = 1) -> List[Dict]:
     path = Path(csv_path)
     if not path.exists():
         raise FileNotFoundError(f"CSV file not found: {csv_path}")
@@ -34,18 +36,36 @@ def load_csv_documents(csv_path: str) -> List[Dict]:
 
             full_text = "\n".join(text_parts)
 
-            doc = {
-                "doc_id": issue_id or None,
-                "text": full_text,
-                "metadata": {
-                    "id": issue_id,
-                    "subject": subject,
-                    "author": author,
-                    "status": status,
-                    "related_issues": related,
-                    "source": str(path),
-                },
-            }
-            documents.append(doc)
+            if sentences_per_chunk and sentences_per_chunk > 0:
+                chunks = chunk_text_by_sentences(full_text, sentences_per_chunk=sentences_per_chunk, overlap=overlap)
+                for ci, chunk in enumerate(chunks):
+                    doc = {
+                        "doc_id": f"{issue_id}#c{ci}" if issue_id else None,
+                        "text": chunk,
+                        "metadata": {
+                            "id": issue_id,
+                            "subject": subject,
+                            "author": author,
+                            "status": status,
+                            "related_issues": related,
+                            "source": str(path),
+                            "chunk_index": ci,
+                        },
+                    }
+                    documents.append(doc)
+            else:
+                doc = {
+                    "doc_id": issue_id or None,
+                    "text": full_text,
+                    "metadata": {
+                        "id": issue_id,
+                        "subject": subject,
+                        "author": author,
+                        "status": status,
+                        "related_issues": related,
+                        "source": str(path),
+                    },
+                }
+                documents.append(doc)
 
     return documents
