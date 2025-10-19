@@ -30,11 +30,10 @@ def query_index(args: argparse.Namespace) -> None:
     index_path = args.index
     question = args.question
     top_k = int(args.k)
-    prefer_openai = bool(args.openai)
 
     results = retrieve(index_path=index_path, query=question, k=top_k)
 
-    answer = generate_answer(question, results, prefer_openai=prefer_openai)
+    answer = generate_answer(question, results)
 
     print("Answer:\n" + answer + "\n")
 
@@ -57,7 +56,6 @@ def main() -> None:
     p_query.add_argument("--index", default="data/index.json", help="Path to index JSON")
     p_query.add_argument("--question", required=True, help="User question")
     p_query.add_argument("--k", default=5, help="Top-K documents to consider")
-    p_query.add_argument("--openai", action="store_true", help="Prefer OpenAI generation if available")
     p_query.set_defaults(func=query_index)
 
     args = parser.parse_args()
